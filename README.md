@@ -151,6 +151,8 @@ http://localhost:5050/swagger
 
 # Frontend Setup
 
+Deployed on Google Firebase hosting :- https://strategy-subscription-app.web.app/
+
 Navigate to:
 
 ```bash
