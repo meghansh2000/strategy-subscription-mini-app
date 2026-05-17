@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+.expo/
+
+# .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
